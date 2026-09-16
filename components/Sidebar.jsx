@@ -10,7 +10,7 @@ export default function Sidebar() {
 
         <div className="w-full aspect-square rounded-[2rem] overflow-hidden mb-4 relative shadow-sm h-[200px]">
           <Image
-            src="/img/avatars/man5_big.jpg"
+            src="/mycv/img/avatars/man5_big.jpg"
             alt="Ahmed Farghally"
             fill
             className="object-cover"
